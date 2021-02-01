@@ -1,0 +1,13 @@
+C:\Users\SerifOZ\source\repos\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\Tic Tac Toe.exe
+C:\Users\SerifOZ\source\repos\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\Tic Tac Toe.deps.json
+C:\Users\SerifOZ\source\repos\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\Tic Tac Toe.runtimeconfig.json
+C:\Users\SerifOZ\source\repos\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\Tic Tac Toe.runtimeconfig.dev.json
+C:\Users\SerifOZ\source\repos\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\Tic Tac Toe.dll
+C:\Users\SerifOZ\source\repos\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\Tic Tac Toe.pdb
+C:\Users\SerifOZ\source\repos\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\Tic Tac Toe.csprojAssemblyReference.cache
+C:\Users\SerifOZ\source\repos\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\Tic Tac Toe.AssemblyInfoInputs.cache
+C:\Users\SerifOZ\source\repos\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\Tic Tac Toe.AssemblyInfo.cs
+C:\Users\SerifOZ\source\repos\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\Tic Tac Toe.csproj.CoreCompileInputs.cache
+C:\Users\SerifOZ\source\repos\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\Tic Tac Toe.dll
+C:\Users\SerifOZ\source\repos\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\Tic Tac Toe.pdb
+C:\Users\SerifOZ\source\repos\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\Tic Tac Toe.genruntimeconfig.cache
